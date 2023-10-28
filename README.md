@@ -1,4 +1,4 @@
-###- Hello, I’m Roger102090
+### - Hello, I’m Roger102090
 -  I’m interested to get experience about IA´s
 -  I’m currently learning about databases
 -  I'm looking to collaborate with a software development company

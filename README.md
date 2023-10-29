@@ -1,15 +1,18 @@
-### - Hello, I’m Roger102090
--  I’m interested to get experience about IA´s
--  I’m currently learning about databases
--  I'm looking to collaborate with a software development company
--  How to reach me on https://www.linkedin.com/in/rogeliomgonzalez/
+## Hello, I’m Rogelio Gzz
+-  I’m interested to get experience about IA´s and web development :mag:
+-  I’m currently learning about data analytics and web development :mortar_board:
+-  I'm looking to collaborate with a software development company :office:
+-  How to reach me on https://www.linkedin.com/in/rogeliomgonzalez/ :computer:
 
--  <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-powershell" width="44" height="44" viewBox="0 0 24 24" stroke-width="1.5" stroke="#ffffff" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-  <path d="M4.887 20h11.868c.893 0 1.664 -.665 1.847 -1.592l2.358 -12c.212 -1.081 -.442 -2.14 -1.462 -2.366a1.784 1.784 0 0 0 -.385 -.042h-11.868c-.893 0 -1.664 .665 -1.847 1.592l-2.358 12c-.212 1.081 .442 2.14 1.462 2.366c.127 .028 .256 .042 .385 .042z" />
-  <path d="M9 8l4 4l-6 4" />
-  <path d="M12 16h3" />
-</svg>
+## Hola, mi nombre es Rogelio Gzz
+-  Estoy interesado en obtener experiencia en inteligencias artificiales y desarrollo web :mag:
+-  Actualmente estoy aprendiendo acerca de análisis de datos y desarrollo web :mortar_board:
+-  Estoy buscando colaborar con alguna empresa de software :office:
+-  Me puedes encontrar en https://www.linkedin.com/in/rogeliomgonzalez/  :computer:
+
+## Websites
+-  https://rogeliogzz-proyectoweb2.netlify.app/
+-  https://proyecto-web-rogeliogzz.netlify.app/
 
 <!---
 Roger102090/Roger102090 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
